@@ -4,3 +4,12 @@ A: To actually use the features of git version-control and keep track of changes
    Hence when we initialize a repository, we enable the version-control feature to track changes in files within that repository.
    To make sure if a repository is created, one should enable viewing hidden files and find for folder named ".git" within the folder/directory
    in which a repository is made.
+
+Q: How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+A: Staging area is a sort of memory where files which need to be tracked are placed, though the files will 
+   remain in the repository but their history will be recorded. Whereas the files that are just placed in 
+   repository/working directory and aren't added to staging area, won't be able to be tracked.
+
+   Thus in short if version-control is to be used on any file, it needs to be added in staging area first and 
+   not just in working directory/repository.
