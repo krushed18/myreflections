@@ -1,0 +1,44 @@
+Q: How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+A: The reason behind the engine start failure was the typo of word "Space", i inserted word "spacr" instead
+   of "space". Thus the game didn't execute well.
+
+Q: How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+A: Having in hand the history of changes of all program files makes it easier to bring forth
+   previous code when required or restore when needed to older version.
+
+Q: What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+A: The Pros and cons of preferring to commit manually than automatically can be written in two parts:
+   
+   * Pros:
+   1: Not much cluttering in history of changes or commits. 
+   2: Each commit will be logical and executable if is a code.
+
+   * Cons:
+   1: Possibility of skipping few logical changes and commits can be too big.
+   2: Possibility of commiting on each small changes and can make list of commits too much cluttered.
+
+Q: Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+A: It is because git is mainly created for the purpose of saving and tracking coding files, which often have multiple files which are interlinked, whereas other VCSs like Google Docs etc are 
+   mainly purpose for the purpose of saving and tracking common doc files like word, excel etc which do not have any functionality like link between two files.
+
+Q: How can you use the commands git log and git diff to view the history of files?
+
+A: Command "git log" shows the number of commits/"changes saved" made in a file and description for the commit.
+   Command "git log" can be used by entering into the repository first and then entering the command "git log" or "git log --stat".
+
+   Whereas the command "git diff" shows the changes/differences between two commmits of a file.
+   Command "git diff" can be used by entering into the repository directory first and then entering this command : 
+   "git diff <commit id of old version> <commit id of new version>".
+
+Q: How might using version control make you more confident to make changes that could break something?
+
+A: Though making changes could break something but because of the version control which helps in saving files prior to each significant change in files, a person is very confident and not hesitant 
+   to make changes as he's assured that his files are being saved prior to whenever changes are being made.
+
+Q: Now that you have your workspace set up, what do you want to try using Git for?
+
+A: I want to use the workspace for the purpose of version-control of my web development and designing projects.

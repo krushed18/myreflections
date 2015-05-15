@@ -1,0 +1,6 @@
+Q: What happens when you initialize a repository? Why do you need to do it?
+
+A: To actually use the features of git version-control and keep track of changes in files, a repository is required.
+   Hence when we initialize a repository, we enable the version-control feature to track changes in files within that repository.
+   To make sure if a repository is created, one should enable viewing hidden files and find for folder named ".git" within the folder/directory
+   in which a repository is made.
