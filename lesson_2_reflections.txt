@@ -27,3 +27,9 @@ A: Creating branches might prove helpful when more than one version of a project
 
    Branches would help developer in keeping different versions apart from each other and make changes in different versions
    which wouldn't effect other version and can progress further on their own tracks separately.
+
+Q: How do the diagrams help you visualize the branch structure?
+
+A: By creating diagrams, i can visualize the origin of each branch and what are the differences between each of them,
+   i can also visualize the last common commit between those branches. In short diagrams help me prevent from getting puzzled
+   and ending up in lockdown.
