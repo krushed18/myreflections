@@ -19,3 +19,11 @@ Q: How can you use the staging area to make sure you have one commit per logical
 A: To make sure that there's one commit per logical change, one should first compare the working directory
    with staging area and then add the modified file in staging area or add the file in staging area and then
    compare file in staging area with most recent commit to make sure there have been some logical changes in file.
+
+Q: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+A: Creating branches might prove helpful when more than one version of a project is needed, for example: on basis of language,
+   difficulty level, etc. 
+
+   Branches would help developer in keeping different versions apart from each other and make changes in different versions
+   which wouldn't effect other version and can progress further on their own tracks separately.
