@@ -42,3 +42,11 @@ A: 1. If i want a project on which i am working with other people, not to be mod
 
    3. Or lastly if i want to merge or want to work using both my local repository version and remote version then, storing
    the remote version locally would be helpful.
+
+Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+A: Probably through email or skype, just for the purpose of file sharing, nothing else than that would be possible from what git 
+   provides us.
+
+   Though Collaborating won't be an issue, but having access to so much info about whole project to each and every co-worker
+   would be close to impossible.
