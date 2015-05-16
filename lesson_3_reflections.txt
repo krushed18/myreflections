@@ -50,3 +50,14 @@ A: Probably through email or skype, just for the purpose of file sharing, nothin
 
    Though Collaborating won't be an issue, but having access to so much info about whole project to each and every co-worker
    would be close to impossible.
+
+Q: When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+A: I'd prefer making changes in a seperate branch, which is still in beta mode or experimental mode, cause this way i can keep my 
+   official version intact and simultaneously try new things on a seperate branch and when i am sure to add the feature in official
+   version i can merge it into main branch.
+
+   Making changes within main branch could make the whole structure of version-control less puzzling and complexed.
+
+   Whereas creating a separate branch might feel hectic in the beginning but later it may prove fruitful and allow to 
+   do more things as compared to freedom of doing things within a single branch.
