@@ -39,3 +39,8 @@ Q: What is the result of merging two branches together? Why do we represent it i
 
 A: When two branches are merged, a file is created and init common content within branches and new addition within each branch is added.
    Because it makes it easier by diagram to understand the process of merging the branches and what content is kept from both the branches.
+
+Q: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+A: Pros: You don't have to go through whole code manually and automatic merging does it automatically within few milliseconds.
+   Cons: Sometimes it may actually merge in a way that program may fail to perform as expected.
