@@ -4,3 +4,11 @@ A: I'd use remote repository, Whenever i'd:-
    1. Want to share final version or even beta verison for testing of project with friends and colleagues.
    2. Want to make a backup of the project somewhere else other than my local machine.
    3. Open for other developers so that they can play around with it and improve it.
+
+Q: Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+A: Suppose i am working on a project with my friends and so whenever remote is updated by any of my co-workers, my git would also pull the
+   same so instead of pulling each and every small update i'd prefer pulling manually after the whole project has been uploaded on remote.
+
+   And sometimes if i want people to work on my project and update their modification to remote i wouldn't necessarily be wanting to implement
+   those modification on my version which is on my local repository. Hence i prefer manual pulling than automatic.
