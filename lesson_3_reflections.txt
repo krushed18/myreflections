@@ -31,3 +31,14 @@ A: 1. Diff Between Forks and Clones:-
 
    2. And I'll be using Cloning when i need to clone a repository from a github account to my local machine or from any
    other machine to mine.
+
+Q: What is the benefit of having a copy of the last known state of the remote stored locally?
+
+A: 1. If i want a project on which i am working with other people, not to be modified anymore and want to
+   keep it as it is for sometime, then storing it locally would be benificial.
+
+   2. Or if i want to work offline with the version of remote repository i'll store it first locally and work on it's
+   own different branch than branch which has the version of my local repository.
+
+   3. Or lastly if i want to merge or want to work using both my local repository version and remote version then, storing
+   the remote version locally would be helpful.
