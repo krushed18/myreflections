@@ -33,3 +33,9 @@ Q: How do the diagrams help you visualize the branch structure?
 A: By creating diagrams, i can visualize the origin of each branch and what are the differences between each of them,
    i can also visualize the last common commit between those branches. In short diagrams help me prevent from getting puzzled
    and ending up in lockdown.
+
+
+Q: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+A: When two branches are merged, a file is created and init common content within branches and new addition within each branch is added.
+   Because it makes it easier by diagram to understand the process of merging the branches and what content is kept from both the branches.
