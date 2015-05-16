@@ -1,0 +1,6 @@
+Q: When would you want to use a remote repository rather than keeping all your work local?
+
+A: I'd use remote repository, Whenever i'd:
+   1. Want to share final version or even beta verison for testing of project with friends and colleagues.
+   2. Want to make a backup of the project somewhere else other than my local machine.
+   3. Open for other developers so that they can play around with it and improve it.
