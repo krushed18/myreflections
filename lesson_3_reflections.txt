@@ -12,3 +12,22 @@ A: Suppose i am working on a project with my friends and so whenever remote is u
 
    And sometimes if i want people to work on my project and update their modification to remote i wouldn't necessarily be wanting to implement
    those modification on my version which is on my local repository. Hence i prefer manual pulling than automatic.
+
+Q: Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A: 1. Diff Between Forks and Clones:-
+   * Forking create a clone of a repository within github, whereas Cloning can create a clone of a 
+   repository from github to local machine or from one local machine to another machine.
+
+   2. Diff between Forks and Branches:-
+   * Forks operates on branches whereas branches operates on commits.
+
+   3. Clones and branches:-
+   * A Clone also operates on branches whereas branches operates on commits.
+
+   Usage:-
+
+   1. I'd use forking when i need to clone a repository stored in a user's github account to my github account.
+
+   2. And I'll be using Cloning when i need to clone a repository from a github account to my local machine or from any
+   other machine to mine.
